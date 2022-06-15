@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 - Install packages:  `npm install`
 - Start Live Server: `npm start`
 
--Follow the HTML-CSS linter confuguration to docs to setup linters [Link to Microverse linter docs](https://github.com/bushmusi/linters-config/tree/master/html-css-js)
+-Follow the HTML-CSS linter confuguration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config)
 
 
 ## Run tests
@@ -63,7 +63,8 @@ For tracking linters errors locally, you need to follow these steps:
 
 - GitHub: 
     - [assadounto](www.github.com/assadohounto)
-
+- Twitter:
+    - [@adukyerer](www.twitter.com/adukyerer)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
