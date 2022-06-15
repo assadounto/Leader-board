@@ -21,7 +21,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n   width: 80%;\r\n   margin: auto;\r\n   margin-top: 2rem;\r\n   background-color: aqua;\r\n}\r\n\r\n.header {\r\n   width: 90%;\r\n   margin: auto;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.main-div {\r\n  align-items: center;\r\njustify-content: center;\r\ndisplay: flex;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;EACE,UAAU;EACV,SAAS;AACX;;AAEA;GACG,UAAU;GACV,YAAY;GACZ,gBAAgB;GAChB,sBAAsB;AACzB;;AAEA;GACG,UAAU;GACV,YAAY;AACf;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,mBAAmB;AACrB,uBAAuB;AACvB,aAAa;AACb;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,WAAW;EACX,iBAAiB;AACnB","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n   width: 80%;\r\n   margin: auto;\r\n   margin-top: 2rem;\r\n   background-color: aqua;\r\n}\r\n\r\n.header {\r\n   width: 90%;\r\n   margin: auto;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.main-div {\r\n  align-items: center;\r\njustify-content: center;\r\ndisplay: flex;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.id, "* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;EACE,UAAU;EACV,SAAS;AACX;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,gBAAgB;AAClB;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,mBAAmB;EACnB,gBAAgB;AAClB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,WAAW;EACX,YAAY;AACd;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,WAAW;EACX,iBAAiB;AACnB","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -528,6 +528,50 @@ function styleTagTransform(css, styleElement) {
 
 module.exports = styleTagTransform;
 
+/***/ }),
+
+/***/ "./src/modules/ConsumeApi.js":
+/*!***********************************!*\
+  !*** ./src/modules/ConsumeApi.js ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Api)
+/* harmony export */ });
+const myUrl= 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/uBjkXQG2z5rv8yctQctd/scores/';
+
+  class Api {
+
+    static getScores= async () => {
+           const { result } = await fetch(myUrl).then(response => response.json())
+           .catch((error)=> new Error(error)
+           );
+    }
+
+    static addScore = async (score)=> {
+        await fetch(myUrl, {
+            method: 'POST',
+            body:JSON.stringify(score),
+            headers:{'Content-type': 'application/json; charset=UTF-8'},
+        })
+    }
+    static renderScore = async (score) => {
+            const scoreArea = document.getElementById('Data')
+            scoreArea.innerHTML=''
+            score.forEach(element => {
+                const name = document.createElement('li')
+                const score = document.createElement('li')
+                name.textContent= element.user;
+                score.textContent=element.score;
+                [name,score].forEach(element=> scoreArea.appendChild(element))
+                
+            });
+        }
+    }
+
+
 /***/ })
 
 /******/ 	});
@@ -611,11 +655,34 @@ var __webpack_exports__ = {};
   \**********************/
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/style.css */ "./src/styles/style.css");
-/* eslint-disable linebreak-style */
+/* harmony import */ var _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/ConsumeApi.js */ "./src/modules/ConsumeApi.js");
+///* eslint-disable linebreak-style */
+
+
+// Game with ID: uBjkXQG2z5rv8yctQctd
+
+
+const displayData = async ()=> {
+    const data = await _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].getScores();
+    _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].renderScore(data)
+}
+document.getElementById('form').addEventListener('submit', async(e)=>{
+    e.preventDefault();
+    //const execute=document.getElementById('form')
+   const name =document.getElementById('name')
+   const score = document.getElementById('score')
+    const data ={
+        user: name.value,
+        score: score.value,
+    }
+    await _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].addScore(data)
+    form.reset()
+    displayData()
+})
 
 
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle3dfdcae1cfb17d16b3e9.js.map
+//# sourceMappingURL=bundlea49b1e15ed4d26e60c5a.js.map
