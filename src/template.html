@@ -13,13 +13,13 @@
             <div class="DisplayScore">
             <div class="container2 flex row">
                 <h2 class="recent">Recent Scores</h2>
-                <button class="refresh">Refresh</button>
+                <button class="refresh" id="refresh">Refresh</button>
             </div>
-            <ul class="scores" id="scores"></ul>
+            <div class="scores" id="Data"></div>
          </div> 
          <div class="AddScore">
             <h2 class="recent">Add your score</h2>
-            <form class="form flex column" action="">
+            <form class="form flex column" action="" id="form">
                 <input type="text" class="input mb" id="name" placeholder="Your name">
                 <input type="text" class="input mb" id="score" placeholder="Your score">
                 <input type="submit" class="submit mb" id="submit" value="Submit">

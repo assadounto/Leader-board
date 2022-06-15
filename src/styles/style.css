@@ -54,3 +54,16 @@ form input {
   width: 50px;
   margin-left: auto;
 }
+
+ul {
+  list-style: none;
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.cont div {
+  width: 50%;
+}
