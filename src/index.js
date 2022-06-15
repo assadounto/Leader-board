@@ -5,6 +5,7 @@ const displayData = async () => {
   const data = await Api.getScores();
   Api.renderScore(data);
 };
+
 displayData();
 document.getElementById('form').addEventListener('submit', async (e) => {
   e.preventDefault();
