@@ -1,48 +1,68 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#  Project
+# Leaderboard
 
-> This project is about testing webpack 
+The leaderboard app displays scores submitted by different players. It also allows you to submit your score. All data is preserved in Leaderboard API .
 
-![screenshot]
+### [Live Demo Link](https://assadounto.github.io/leader-board/)
 
-Additional description about the project and its features.
+
+
+![screenshot]()
 
 ## Built With
 
-- HTML 
-- CSS 
-- Javascript 
--Webpack
-
-## Live Demo
-
-[Live Demo Link](https://assadounto.github.io/WEBPACK-STATER/)
-
+- HTML5, Javascript
+- CSS3
 
 ## Getting Started
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
+- Have a good knowledge on how to parse UI designs
+- Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
+- Install node package. [Link to download node](https://nodejs.org/en/download/)
+- Have git installed.[Link to download git](https://git-scm.com/downloads)
+- Create a github repository.
 
--Local machine web browser
+## Setup
+- `git clone git@github.com:assadounto/Leader-board.git`
+- `cd leader-board/`
+- Install packages:  `npm install`
+- Start Live Server: `npm start`
 
-### Setup
-
--clone the repository using (https://github.com/assadounto/WEBPACK-STATER)
-
-### Install
--Any HTML text approved editor, etc. VS Code, Brackets, Atom
+-Follow the HTML-CSS linter confuguration to docs to setup linters [Link to Microverse linter docs](https://github.com/bushmusi/linters-config/tree/master/html-css-js)
 
 
-## Authors
+## Run tests
 
-👤 **Richmond Adu**
+For tracking linters errors locally, you need to follow these steps:
+- For tracking linter errors in HTML file run:
 
-GitHub: [@assadounto](https://github.com/assadounto)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+1. `npm install --save-dev hint@6.x`
+2. `npx hint .`
+
+- For tracking linter errors in CSS file run:
+
+1. `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
+2. `npx stylelint "**/*.{css,scss}"`
+
+- For tracking linter errors in Javascript file run:
+
+1. `npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x`
+2. `npx eslint .`
+
+## Deployment
+
+- Use GitHub pages to deploy website
+- For more information about publishing sources, see [About github pages](https://pages.github.com/)
+
+## Author
+
+👤 **Rich Adu**
+
+- GitHub: 
+    - [assadounto](www.github.com/assadohounto)
 
 ## 🤝 Contributing
 
@@ -56,9 +76,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse 
+- Coding Partners
+- Code Reviewers
 
 ## 📝 License
 
