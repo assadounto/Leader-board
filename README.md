@@ -4,7 +4,7 @@
 
 The leaderboard app displays scores submitted by different players. It also allows you to submit your score. All data is preserved in Leaderboard API .
 
-### [Live Demo Link](https://assadounto.github.io/leader-board/)
+### [Live Demo Link](https://assadounto.github.io/Leader-board/)
 
 
 
@@ -73,7 +73,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you liked this project!
 
 ## Acknowledgments
 
