@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 - `git clone git@github.com:assadounto/Leader-board.git`
 - `cd leader-board/`
 - Install packages:  `npm install`
-- Start Live Server: `npm start`
+- Start Live Server: `npm run dev`
 
 -Follow the HTML-CSS linter confuguration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config)
 
