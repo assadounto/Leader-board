@@ -57,13 +57,12 @@ form input {
 
 ul {
   list-style: none;
- 
 }
 
 .cont {
   display: flex;
   flex-direction: row;
-} 
+}
 
 .cont div {
   width: 50%;
