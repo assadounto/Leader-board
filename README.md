@@ -62,7 +62,7 @@ For tracking linters errors locally, you need to follow these steps:
 👤 **Rich Adu**
 
 - GitHub: 
-    - [assadounto](www.github.com/assadohounto)
+    - [assadounto](www.github.com/assadounto)
 - Twitter:
     - [@adukyerer](www.twitter.com/adukyerer)
 ## 🤝 Contributing
