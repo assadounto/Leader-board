@@ -35,7 +35,8 @@
 }
 
 .DisplayScore {
-  margin-right:50px;
+  margin-right: 50px;
+  width: 50%;
 }
 
 h2 {
@@ -63,14 +64,9 @@ form input {
   box-shadow: 3px 3px #0e0d0d;
 }
 
-.DisplayScore {
-  width: 50%;
-}
-
 .AddScore {
   width: 35%;
 }
-
 
 .cont {
   display: flex;
@@ -89,25 +85,27 @@ input::placeholder {
 }
 
 .input {
-font-size: 18px;
+  font-size: 18px;
 }
-.cont:nth-child(even){
+
+.cont:nth-child(even) {
   background-color: lightgray;
 }
 
 .scores {
   border: 3px solid;
-
 }
 
 @media screen and (max-width: 480px) {
   .container {
     flex-direction: column-reverse;
-  } 
+  }
 
-  .DisplayScore , .AddScore {
+  .DisplayScore,
+  .AddScore {
     width: 90%;
   }
+
   .submit {
     width: 80px;
     margin-right: auto;
