@@ -21,7 +21,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;EACE,UAAU;EACV,SAAS;AACX;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,gBAAgB;AAClB;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,mBAAmB;EACnB,gBAAgB;AAClB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,WAAW;EACX,YAAY;AACd;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,WAAW;EACX,iBAAiB;AACnB","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.id, "* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n\r\nul {\r\n  list-style: none;\r\n \r\n}\r\n\r\n.cont {\r\n  display: flex;\r\n  flex-direction: row;\r\n} \r\n\r\n.cont div {\r\n  width: 50%;\r\n}", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;EACE,UAAU;EACV,SAAS;AACX;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,gBAAgB;AAClB;;AAEA;EACE,UAAU;EACV,YAAY;EACZ,mBAAmB;EACnB,gBAAgB;AAClB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,WAAW;EACX,YAAY;AACd;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,WAAW;EACX,iBAAiB;AACnB;;AAEA;EACE,gBAAgB;;AAElB;;AAEA;EACE,aAAa;EACb,mBAAmB;AACrB;;AAEA;EACE,UAAU;AACZ","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n.container {\r\n  width: 80%;\r\n  margin: auto;\r\n  margin-top: 2rem;\r\n}\r\n\r\n.header {\r\n  width: 90%;\r\n  margin: auto;\r\n  font-size: xx-large;\r\n  margin-top: 50px;\r\n}\r\n\r\n.recent {\r\n  margin-right: 2rem;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.refresh {\r\n  width: 70px;\r\n  height: 50px;\r\n}\r\n\r\n.flex {\r\n  display: flex;\r\n}\r\n\r\n.DisplayScore {\r\n  margin-right: 100px;\r\n}\r\n\r\nh2 {\r\n  font-size: xx-large;\r\n}\r\n\r\nform input {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.row {\r\n  flex-direction: row;\r\n}\r\n\r\n.column {\r\n  flex-direction: column;\r\n}\r\n\r\n.submit {\r\n  width: 50px;\r\n  margin-left: auto;\r\n}\r\n\r\nul {\r\n  list-style: none;\r\n \r\n}\r\n\r\n.cont {\r\n  display: flex;\r\n  flex-direction: row;\r\n} \r\n\r\n.cont div {\r\n  width: 50%;\r\n}"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -548,6 +548,7 @@ const myUrl= 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/gam
            const { result } = await fetch(myUrl).then(response => response.json())
            .catch((error)=> new Error(error)
            );
+           return result
     }
 
     static addScore = async (score)=> {
@@ -557,16 +558,18 @@ const myUrl= 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/gam
             headers:{'Content-type': 'application/json; charset=UTF-8'},
         })
     }
-    static renderScore = async (score) => {
-            const scoreArea = document.getElementById('Data')
-            scoreArea.innerHTML=''
-            score.forEach(element => {
-                const name = document.createElement('li')
-                const score = document.createElement('li')
+    static renderScore = async (scores) => {
+            const scoreArea = document.querySelector('.scores');
+            scoreArea.innerHTML='';
+            scores.forEach(element => {
+                const cont = document.createElement('div')
+                cont.classList.add('cont')
+                const name = document.createElement('div');
+                const score = document.createElement('div');
                 name.textContent= element.user;
                 score.textContent=element.score;
-                [name,score].forEach(element=> scoreArea.appendChild(element))
-                
+                [name,score].forEach(element=> cont.appendChild(element));
+                scoreArea.appendChild(cont)
             });
         }
     }
@@ -666,6 +669,7 @@ const displayData = async ()=> {
     const data = await _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].getScores();
     _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].renderScore(data)
 }
+displayData()
 document.getElementById('form').addEventListener('submit', async(e)=>{
     e.preventDefault();
     //const execute=document.getElementById('form')
@@ -677,12 +681,14 @@ document.getElementById('form').addEventListener('submit', async(e)=>{
     }
     await _modules_ConsumeApi_js__WEBPACK_IMPORTED_MODULE_1__["default"].addScore(data)
     form.reset()
-    displayData()
 })
 
+document.getElementById('refresh').addEventListener('click', async()=>{
+    displayData()
+})
 
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundlea49b1e15ed4d26e60c5a.js.map
+//# sourceMappingURL=bundlef7c7dc9da331a2469693.js.map
