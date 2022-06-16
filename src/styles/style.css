@@ -3,6 +3,9 @@
   margin: 0;
 }
 
+body {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
 .container {
   width: 80%;
   margin: auto;
