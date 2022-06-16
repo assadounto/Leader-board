@@ -8,7 +8,7 @@ The leaderboard app displays scores submitted by different players. It also allo
 
 
 
-![screenshot]()
+![screenshot](./desktop.png)
 
 ## Built With
 
