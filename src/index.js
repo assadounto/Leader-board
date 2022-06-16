@@ -1,10 +1,12 @@
 import './styles/style.css';
+import renderScore from './modules/render.js';
 import Api from './modules/ConsumeApi.js';
 
 const displayData = async () => {
   const data = await Api.getScores();
-  Api.renderScore(data);
+  renderScore(data);
 };
+
 displayData();
 document.getElementById('form').addEventListener('submit', async (e) => {
   e.preventDefault();

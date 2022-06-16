@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
 .container {
   width: 80%;
   margin: auto;
@@ -12,7 +16,7 @@
 .header {
   width: 90%;
   margin: auto;
-  font-size: xx-large;
+  font-size: 70px;
   margin-top: 50px;
 }
 
@@ -22,8 +26,12 @@
 }
 
 .refresh {
+  height: 30px;
   width: 70px;
-  height: 50px;
+  border-radius: 0;
+  box-shadow: 3px 3px #161515;
+  border: 3px solid;
+  padding: 5px;
 }
 
 .flex {
@@ -31,7 +39,8 @@
 }
 
 .DisplayScore {
-  margin-right: 100px;
+  margin-right: 50px;
+  width: 50%;
 }
 
 h2 {
@@ -40,6 +49,9 @@ h2 {
 
 form input {
   margin-bottom: 20px;
+  height: 30px;
+  border: 3px solid;
+  padding: 5px;
 }
 
 .row {
@@ -51,12 +63,13 @@ form input {
 }
 
 .submit {
-  width: 50px;
+  width: 80px;
   margin-left: auto;
+  box-shadow: 3px 3px #0e0d0d;
 }
 
-ul {
-  list-style: none;
+.AddScore {
+  width: 35%;
 }
 
 .cont {
@@ -66,4 +79,40 @@ ul {
 
 .cont div {
   width: 50%;
+  padding: 5px;
+}
+
+input::placeholder {
+  font-size: 1rem;
+  color: rgb(7, 1, 1);
+  text-decoration: solid;
+}
+
+.input {
+  font-size: 18px;
+}
+
+.cont:nth-child(even) {
+  background-color: lightgray;
+}
+
+.scores {
+  border: 3px solid;
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .DisplayScore,
+  .AddScore {
+    width: 90%;
+  }
+
+  .submit {
+    width: 80px;
+    margin-right: auto;
+    margin-bottom: 2rem;
+  }
 }
